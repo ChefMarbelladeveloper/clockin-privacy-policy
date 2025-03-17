@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - ClockIn</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            font-size: 24px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            font-size: 20px;
+            margin-top: 30px;
+        }
+        p {
+            margin: 15px 0;
+        }
+        ul {
+            margin: 15px 0;
+            padding-left: 30px;
+        }
+        .date {
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for ClockIn</h1>
+    <p class="date">Last updated: July 16, 2024</p>
+
+    <p>Marbella Private Chef ("we," "our," or "us") operates the ClockIn application (the "Service"), a time tracking and employee management solution. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
+
+    <h2>Information Collection and Use</h2>
+    <p>We collect several different types of information for various purposes to provide and improve our Service to you:</p>
+
+    <h2>Personal Data</h2>
+    <p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you or your employees ("Personal Data"). This may include, but is not limited to:</p>
+    <ul>
+        <li>Names</li>
+        <li>Email addresses (optional)</li>
+        <li>Employee identification information</li>
+        <li>Work schedules</li>
+        <li>Clock in/out records</li>
+    </ul>
+
+    <h2>Usage Data</h2>
+    <p>We may also collect information on how the Service is accessed and used ("Usage Data"). This data may include information such as your device's IP address, device type, operating system, app version, the pages of our Service that you visit, the time and date of your usage, and other diagnostic data.</p>
+
+    <h2>Data Storage</h2>
+    <p>The Personal Data collected by ClockIn is primarily stored locally on your device. Backup functionality within the app creates copies of this data that may be stored in external storage on your device or shared through channels you choose to use.</p>
+    <p>We do not store or process your Personal Data on external servers, except for the following cases:</p>
+    <ul>
+        <li>License verification processes (no personal employee data is transferred)</li>
+        <li>App crash reports (which may contain technical information about your device but not employee data)</li>
+    </ul>
+
+    <h2>Use of Data</h2>
+    <p>ClockIn uses the collected data for various purposes:</p>
+    <ul>
+        <li>To provide and maintain the Service</li>
+        <li>To allow you to track employee working hours</li>
+        <li>To generate reports on working hours</li>
+        <li>To notify you about changes to our Service</li>
+        <li>To provide customer support</li>
+        <li>To gather analysis or valuable information so that we can improve the Service</li>
+        <li>To detect, prevent and address technical issues</li>
+    </ul>
+
+    <h2>Transfer of Data</h2>
+    <p>Your information, including Personal Data, is primarily processed on your device. By using backup and export features, you may transfer this data to external storage or share it with others. Any such transfers are initiated by you and under your control.</p>
+
+    <h2>Legal Requirements</h2>
+    <p>We may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+    <ul>
+        <li>To comply with a legal obligation</li>
+        <li>To protect and defend the rights or property of ClockIn</li>
+        <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
+        <li>To protect the personal safety of users of the Service or the public</li>
+        <li>To protect against legal liability</li>
+    </ul>
+
+    <h2>Security of Data</h2>
+    <p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p>
+    <p>We implement security measures within the app, such as PIN protection for employee access and password protection for administrator functions.</p>
+
+    <h2>Data Retention</h2>
+    <p>We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. Since data is stored locally on your device, retention is primarily under your control through the ClockIn application's data management features.</p>
+
+    <h2>Your Data Protection Rights</h2>
+    <p>If you are a resident of the European Economic Area (EEA), you have certain data protection rights. We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.</p>
+    <p>You have the right to:</p>
+    <ul>
+        <li>Access to your data: Since data is stored locally on your device, you have direct access to all information through the ClockIn app interface.</li>
+        <li>Rectification: You can edit employee information and correct clock records through the app's management functions.</li>
+        <li>Erasure: You can delete employees and their associated records through the app.</li>
+        <li>Restriction: You can adjust access levels and permissions through the app's security settings.</li>
+        <li>Data portability: The app allows you to export data in various formats that can be transferred to other systems.</li>
+    </ul>
+
+    <h2>Service Providers</h2>
+    <p>We may employ third-party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used. These third parties may have access to limited data as required to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
+    <p>Current service providers include:</p>
+    <ul>
+        <li>Google Play (for app distribution and license management)</li>
+        <li>Google Firebase (for crash reporting and analytics, if enabled)</li>
+    </ul>
+
+    <h2>Analytics</h2>
+    <p>We may use third-party Service Providers to monitor and analyze the use of our Service.</p>
+    <p>Google Analytics for Firebase: Firebase Analytics is an analytics service provided by Google Inc. You may opt-out of certain Firebase features through your mobile device settings.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>Our Service does not address anyone under the age of 18 ("Children"). We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children have provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
+
+    <h2>Changes To This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date at the top of this Privacy Policy.</p>
+    <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us at:</p>
+    <ul>
+        <li>By email: support@marbellaprivatechef.com</li>
+    </ul>
+</body>
+</html>
